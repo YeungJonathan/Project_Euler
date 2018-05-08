@@ -8,7 +8,7 @@ def collatz(num):
 check = {1:1}
 maxValue = 1
 maxNum = 1
-for num in range(2,1000001):
+for num in range(2,2000001):
 	item = num
 	count = 1
 	final = 0
