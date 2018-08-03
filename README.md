@@ -1,12 +1,4 @@
 # Project_Euler
-
-  _ __  _   _    _ _    __    __    ____  _  _  ___  ____ 
-  
- / _ _)( )_( )  /_ _\  (  )  (  )  ( ___)( \( )/ __)( ___)
- 
-( (_ _  ) _ (  /(_ _)\  )(__  )(__  )__)  )  (( (_-. )__) 
-
- \__ _)(_) (_)(__)(_ _)(____)(____)(____)(_)\_)\___/(____)
  
 Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
 
